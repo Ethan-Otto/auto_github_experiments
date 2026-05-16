@@ -1,0 +1,5 @@
+# Human code owners. Only their approvals satisfy required reviews
+# on protected branches (when `require_code_owner_review` is set).
+# Bot/App reviews do not count.
+
+* @Ethan-Otto
